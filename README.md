@@ -1,9 +1,9 @@
-LMCalculator (Public)
+LMCalculator (Public):
 PyGIS method for Landscape Metrics computation (QGIS environment compliant) developed by CNR-IIA Research Institute (contact: mariella.aquilino@cnr.it).
 
 This script is designed to run as a custom Python algorithm in the QGIS environment. It processes a classified raster map in a cartographic coordinate system to compute various landscape metrics such as patch area, perimeter, and count.
 
-Prerequisites
+Prerequisites:
 A classified raster map with appropriate CRS (Coordinate Reference System).
 Lecos QGIS plugin for landscape analysis.
 
